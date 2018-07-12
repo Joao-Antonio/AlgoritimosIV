@@ -1,5 +1,10 @@
 package Ep0;
 
+/**
+* Método que pega como entrada um arquivo .txt, o lê e imprime o conteudo
+* do mesmo na tela.
+*/
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
